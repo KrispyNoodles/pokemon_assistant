@@ -3,7 +3,7 @@
 Pokémon Assistant is a multi-agent system powered by LangGraph and LangChain. It helps users identify Pokémon and choose the most effective move during battle using natural language queries or images.
 
 ## 🎮 Demo
-![POKEMON-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2b1ce883-5998-437d-a9bb-06da290402de)
+![POKEMON-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/815f2858-a963-4c15-9bce-ef4d62223354)
 
 ## 🧩 Architecture
 Agents:
@@ -11,8 +11,7 @@ Agents:
 - Pokemon Identifier Agent: Identifies Pokémon (from name/image) and retrieves their type.
 - Pokemon Decision Move Agent: Determines the most effective move based on Pokémon type.
 
-<img width="676" height="249" alt="output" src="https://github.com/user-attachments/assets/fb158374-156b-46af-a596-439aecb6d36a" />
-
+<img width="676" height="249" alt="output" src="https://github.com/user-attachments/assets/a78bca38-b973-4e4f-ac85-914fbdf2d7c3" />
 
 ## ⚙️ Setup
 1. Install dependencies
